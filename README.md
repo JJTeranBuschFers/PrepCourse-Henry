@@ -1,2 +1,1 @@
-# PrepCourse-Henry
-Repositorio de prueba 
+Teran:proyecto de prueba de creacion y clonacion de repositorio con github
